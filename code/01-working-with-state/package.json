@@ -1,5 +1,5 @@
 {
-  "name": "myapp",
+  "name": "01-working-with-state",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
